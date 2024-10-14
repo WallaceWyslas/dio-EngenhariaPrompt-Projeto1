@@ -117,7 +117,3 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 
 - [Fundamentos de Engenharia de prompt](https://elidianaandrade.gitbook.io/fundamentos-de-engenharia-de-prompts-com-claude-3)
 - [Boas práticas de prompt](https://aline-antunes.gitbook.io/otimize-seus-prompts-e-aprenda-mais-usando-ias-1)
-
----
-
-## 🎯 Prompt de Resposta Proposto
