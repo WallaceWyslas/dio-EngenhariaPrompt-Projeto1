@@ -42,7 +42,7 @@ A quinta regra está relacionada se o usuário possuí ou não alguma restriçã
 
 ### Regra 6 - Cronograma
 A sexta regra irá determinar por quanto tempo deverá ser feito o cronograma de treino.
-Exemplo: Se o usuário definir 4 semanas, deverá ser feito um cronograma de treino para 4 semanas.
+Exemplo: Se o usuário definir 4 semanas e {{diasPorSemana}} 3 dias, deverá ser feito um cronograma total de 12 treinos, sendo 3 treinos por semana, durante 4 semanas.
 
 # Resultado esperado
 Com base nos valores dados informados, crie um treino pessoal seguindo as variáveis e as regras que corresponde a combinação dos valores
